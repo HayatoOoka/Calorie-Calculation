@@ -4,7 +4,8 @@ reference　→　https://drive.google.com/drive/folders/1Q7Z-BhUN-1-qrz2LmaASKk
 
 Launching applications using ngrok　→　https://colab.research.google.com/drive/1Wec2GiVCJeOZXJ09zlUA07AI2cS6uK8u?usp=sharing
 
-sample↓
+sample↓　　※Currently only hamburger, salad, rice, and miso soup are detected
 
-![demo](https://github.com/HayatoOoka/Calorie-Calculation/assets/140486277/7e5d1d7e-6528-4953-8598-1b39dfd2a663)
 
+
+![demo](https://github.com/HayatoOoka/Calorie-Calculation/assets/140486277/ebaee77d-da2c-4780-9d7f-dee4cef74c01)

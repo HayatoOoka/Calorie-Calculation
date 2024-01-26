@@ -6,4 +6,5 @@ Launching applications using ngrok　→　https://colab.research.google.com/dri
 
 sample↓
 
-![demo](https://github.com/HayatoOoka/Calorie-Calculation/assets/140486277/a984f643-fe93-41a1-803b-2729aca12a16)
+![demo](https://github.com/HayatoOoka/Calorie-Calculation/assets/140486277/7e5d1d7e-6528-4953-8598-1b39dfd2a663)
+

@@ -4,7 +4,7 @@ reference　→　https://drive.google.com/drive/folders/1Q7Z-BhUN-1-qrz2LmaASKk
 
 Launching applications using ngrok　→　https://colab.research.google.com/drive/1Wec2GiVCJeOZXJ09zlUA07AI2cS6uK8u?usp=sharing
 
-sample↓　　※Currently only hamburger, salad, rice, and miso soup are detected
+sample↓　　※Currently only hamburgsteak, salad, rice, and miso soup are detected
 
 
 
